@@ -52,4 +52,3 @@ export default tseslint.config({
   },
 })
 ```
->>>>>>> b2b397a (Initial Commit)
